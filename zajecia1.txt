@@ -1,0 +1,12 @@
+Właczamy VirtualBox -> importujemy obraz z D:\OVM\OVA -> wybieramy ścieszkę pliku D:\OVM\VM
+
+konsola: 
+copy con: plik4.txt (kopiuj z klawiatury) - potem wpisujemy zawartość pliku
+type plik4.txt - wypisuje zawartosc pliku na konsole
+
+>> - dopisz na końcu pliku
+
+dir >> plik4.txt - dospisywanie do pliku ostatniego polecenia (dir) do pliku plik4.txt
+to będzie potrzebne do sprawozdań
+następnie kopiujemy plik na komputer
+
